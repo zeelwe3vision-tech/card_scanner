@@ -1,0 +1,33 @@
+# Backend API
+fastapi
+uvicorn[standard]
+python-multipart
+
+# Validation / environment
+pydantic
+pydantic-settings
+
+# Supabase
+supabase
+
+# Gemini
+google-genai
+
+# Image processing / QR / logo extraction
+opencv-python
+numpy
+
+# Website research / enrichment
+httpx
+beautifulsoup4
+playwright
+
+# PDF processing
+PyMuPDF
+Pillow
+jspdf
+xlsx
+PyJWT
+
+pyzbar
+tavily-python

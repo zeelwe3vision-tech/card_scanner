@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]
+python-multipart
+pydantic
+pydantic-settings
+supabase
+python-dotenv
+requests
+beautifulsoup4
+pypdf
+Pillow
+google-genai
+pyzbar
