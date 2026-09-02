@@ -1,7 +1,0 @@
-{
-  "dependencies": {
-    "jsqr": "^1.4.0",
-    "uvicorn": "^0.0.1-security",
-    "xlsx": "^0.18.5"
-  }
-}
